@@ -1,0 +1,47 @@
+/* Give your page a fun background color */
+body {
+  background-color: Sienna;
+}
+
+header {
+  background-color: beige;
+  text-align: center;
+}
+
+.footer {
+  background-color: beige;
+  padding-top: .5px;
+  margin-top: 50px
+}
+
+p {
+  color: maroon;
+  font-family: sans-serif;
+}
+
+img {
+  border: 5px solid black;
+  border-radius: 10%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  height: 400px
+
+}
+
+ul {
+  font-family: sans-serif;
+}
+
+li {
+  margin: 15px
+}
+
+/* Make the header and footer a different color from the background */
+
+/* Align the h1 containing your name in the center of the header*/
+
+/* Make your p tag a different color and italic */
+
+/* Put a border around your image */
+
+/* Change the font-family of your list */
